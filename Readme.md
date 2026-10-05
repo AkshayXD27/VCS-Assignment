@@ -20,7 +20,7 @@ git clone https://github.com/AkshayXD27/VCS-Assignment.git
 cd VCS-Assignment
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+AkshayXD27
 
 ## Usage
 
