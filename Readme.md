@@ -16,8 +16,8 @@ A practical assignment demonstrating GitHub repository management, Markdown docu
 Clone the repository using:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/version-control-assignment.git
-cd version-control-assignment
+git clone https://github.com/AkshayXD27/VCS-Assignment.git
+cd VCS-Assignment
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
